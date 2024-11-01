@@ -1,0 +1,13 @@
+[package]
+name = "anthropic_api"
+version.workspace = true
+rust-version.workspace = true
+edition.workspace = true
+authors.workspace = true
+homepage.workspace = true
+repository.workspace = true
+keywords.workspace = true
+license.workspace = true
+readme.workspace = true
+
+[dependencies]

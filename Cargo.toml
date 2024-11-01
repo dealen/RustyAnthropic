@@ -1,0 +1,16 @@
+[workspace]
+members = [ "anthropic_api", "anthropic_client", "anthropic_tests"]
+resolver = "2"
+
+[workspace.package]
+version = "0.0.1"
+rust-version = "1.75"
+edition = "2021"
+authors = [ "Jakub marcickiewicz <marcickiewiczjakub@gmail.com>" ]
+homepage = "https://github.com/dealen"
+repository = "https://github.com/dealen/RustyOpenAI"
+keywords = ["autiomation", "library", "rust"]
+license = "MIT OR Apache-2.0"
+readme = "README.md"
+
+[workspace.dependencies]
